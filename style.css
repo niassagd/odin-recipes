@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(231, 251, 252);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.recipe_page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    margin: 150px;
+    gap: 40px;
+}
+p {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color:rgb(201, 108, 178);
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+img {
+    
+}
+
+.intro {
+    background-color: rgb(255, 255, 255);
+    color: rgb(137, 184, 127);
+   
+
+}
+    
+.ing {
+    background-color: rgb(244, 230, 245);
+    font-size: 15px;
+    font-weight: 800;
+    text-align: center;
+}
+
+* .instruct {
+    background-color: rgb(199, 236, 192);
+    color:rgba(78, 4, 78, 0.671);
+    
+}
