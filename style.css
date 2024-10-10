@@ -52,5 +52,8 @@ img {
 * .instruct {
     background-color: rgb(199, 236, 192);
     color:rgba(78, 4, 78, 0.671);
-    
+}
+
+ul { 
+    list-style: none;
 }
